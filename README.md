@@ -1,5 +1,13 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/carrot_888?color=orange&style=flat-square)
-### Good Morning!
+### Good night!
+
+Just some random guy who likes math, electronics and stuff.
+
+I've got some experience with:
+  * Coding with Python, C and Java.
+  * Doing elctronics and microcontrollers.
+  * Arduino and Raspberry PI
+  * Linux
 
 Doge: <code>DGRTdDHUWmfrugQe7sT5uhVM8LFUeV7hg1</code>
 
